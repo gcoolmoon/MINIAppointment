@@ -1,0 +1,23 @@
+
+#body{
+    top:80px;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+.error {
+    color: red;
+    margin: 10px;
+}
+#newForm {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.top-space {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}

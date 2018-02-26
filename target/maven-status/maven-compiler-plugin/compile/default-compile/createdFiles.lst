@@ -1,0 +1,5 @@
+model/Appointment.class
+dbHandler/SQLiteConnection.class
+repository/AppointmentRepository.class
+dataset/Appointments.class
+servlet/appointServlet.class
